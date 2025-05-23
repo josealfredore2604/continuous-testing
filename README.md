@@ -1,4 +1,4 @@
-#  🧪 Continuous Testing - Flask API
+# 🧪 Continuous Testing - Flask API
 
 Un proyecto de ejemplo que demuestra diferentes niveles de testing automatizado en una aplicación Flask simple, implementando **Unit Tests**, **Integration Tests**, y **End-to-End Tests** con Docker y CI/CD.
 
